@@ -4,8 +4,11 @@ Built using Python 3.13.0
 
 ## Creating a virtual environment (Recommended):
 ```bash
+# clone repository
+git clone https://github.com/KatDost/SummerSchool_FeatureImportance.git
+
 # Navigate to the folder where the repository is downloaded
-cd FeCoNi
+cd SummerSchool_FeatureImportance
 
 # Verify that Python 3.13.x is installed
 #  (if not: download and install from https://www.python.org/downloads/)
