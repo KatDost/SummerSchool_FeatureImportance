@@ -1,8 +1,29 @@
 # SummerSchool_FeatureImportance
 
+## Tutorial Overview: Explaining Machine Learning Models
+
+This tutorial walks through different techniques to understand and interpret machine learning models:
+
+0. **[0_data_exploration.ipynb](0__data_exploration.ipynb)**  
+   Load and explore the datasets used in the tutorial (Adult, Student Performance, Digits).
+
+1. **[1_feature_importance_with_ensembles.ipynb](1__feature_importance_with_ensembles.ipynb)**  
+   Use tree-based ensemble models (e.g., Random Forests) to identify globally important features.
+
+2. **[2_feature_importance_with_shap.ipynb](2__feature_importance_with_shap.ipynb)**  
+   Apply SHAP values for fine-grained explanations of both tabular and image-based predictions.
+
+3. **[3_feature_importance_with_lime.ipynb](3__feature_importance_with_lime.ipynb)**  
+   Use LIME for local, interpretable approximations — including explanations for image classifiers.
+
+Each notebook is self-contained and can be run independently.
+
+
+## Installation & Setup
+
 Built using Python 3.13.0
 
-## Creating a virtual environment (Recommended):
+### Creating a virtual environment (Recommended):
 ```bash
 # clone repository
 git clone https://github.com/KatDost/SummerSchool_FeatureImportance.git
