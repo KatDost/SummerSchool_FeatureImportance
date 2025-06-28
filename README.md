@@ -1,5 +1,7 @@
 # SummerSchool_FeatureImportance
 
+by Sašo Džeroski & Katharina Dost, Jožef Stefan Institute, Ljubljana, Slovenia
+
 This tutorial walks through different techniques to understand and interpret machine learning models:
 
 0. **[0_data_exploration.ipynb](0__data_exploration.ipynb)**  
