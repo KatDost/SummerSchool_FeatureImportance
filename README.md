@@ -1,7 +1,5 @@
 # SummerSchool_FeatureImportance
 
-## Tutorial Overview: Explaining Machine Learning Models
-
 This tutorial walks through different techniques to understand and interpret machine learning models:
 
 0. **[0_data_exploration.ipynb](0__data_exploration.ipynb)**  
