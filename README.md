@@ -1,4 +1,4 @@
-# SummerSchool_FeatureImportance
+# Tutorial: Feature Importance
 
 by Sašo Džeroski & Katharina Dost, Jožef Stefan Institute, Ljubljana, Slovenia
 
